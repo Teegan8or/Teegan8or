@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Teegan8or
 - 👀 I’m interested in learning and improving my knowledge base as well as completing fun and rewarding projects
 - 🌱 I’m currently learning how to do front-end
-- 💞️ I’m looking to collaborate on anything that you think might suit me
+- 💞️ I’m looking to collaborate on anything that you think might suit or grow me
 - 📫 How to reach me at teegan8or@gmail.com
 
 <!---
